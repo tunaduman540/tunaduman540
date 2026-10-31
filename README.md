@@ -16,10 +16,21 @@ I'm a Computer Engineering graduate from Eskişehir Technical University, intere
 
 ### 💻 Technologies & Tools
 
-- **Languages:** C#, Java
-- **Backend:** ASP.NET Core MVC, Entity Framework Core
-- **Database:** Microsoft SQL Server
-- **Tools:** Git, GitHub, Visual Studio Code
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Database & Tools**
+
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🚀 Featured Project
 
